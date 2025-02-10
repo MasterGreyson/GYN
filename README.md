@@ -6,10 +6,13 @@ FILES:
 <details>
 <summary>Conversation History Api</summary>
   https://github.com/MasterGreyson/GYN/blob/main/ConversationHistory.js
-<details>
 
-<details>
+
+
   <summary>Image Generation Api</summary>
   <https://github.com/MasterGreyson/GYN/blob/main/ImageAPI.js/>
+
+<summary>Gemini Detection Api</summary>
+<https://github.com/MasterGreyson/GYN/blob/main/RegularGeminiDetection.js#L3/>
 </details>
 
