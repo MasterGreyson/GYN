@@ -15,4 +15,8 @@ Welcome to GYN Networks, a github repository made for jailbreaking ai chatbots, 
 <https://github.com/MasterGreyson/GYN/blob/main/GYNUserScript.py>
 
 <https://github.com/MasterGreyson/GYN/blob/main/AntiPoliticalResponseRemoval.js>
+
+<https://github.com/MasterGreyson/GYN/blob/main/GYNAPI.java>
+
+<https://github.com/MasterGreyson/GYN/blob/main/GYNAPI.cpp>
 </summary>
