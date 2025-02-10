@@ -77,17 +77,3 @@ public class GynGeminiAPI {
     }
 }
 
-Key improvements and explanations:
- * JSON Handling: Uses Gson (or you can use Jackson, another popular library) for proper JSON serialization and deserialization. This is crucial for interacting with most modern APIs.  Make sure you include the Gson dependency in your project (e.g., in your pom.xml if you're using Maven).
- * Request/Response Classes: Defines inner classes GynGeminiRequest and GynGeminiResponse to represent the JSON structure of your API requests and responses. This makes the code much cleaner and easier to maintain.  You MUST adapt these classes to the exact JSON structure your GYN API uses.
- * Error Handling: Includes a basic check for HTTP errors (status codes other than 200).  You should enhance this with more robust error handling (e.g., throwing custom exceptions).
- * Political Response Filtering:  The code now specifically checks if the GYN response contains "I can't help with political" and replaces it with a more acceptable phrase. You can customize the replacement text as you see fit.
- * Clearer API Interaction: The sendMessage method handles the entire API interaction, making the main method much simpler.
- * Example Usage: The main method demonstrates how to use the sendMessage function.
-How to Use:
- * Replace YOUR_GYN_API_ENDPOINT:  Put the actual URL of your GYN API here.
- * Add Gson Dependency: Include the Gson library in your project.
- * Adapt Request/Response Classes: Modify the GynGeminiRequest and GynGeminiResponse classes to match the precise JSON format your API expects and returns.  This is the most important step!
- * Compile and Run: Compile and run the Java code.
-This improved version provides a much more solid foundation for interacting with your GYN API. Remember to tailor the JSON handling and error handling to your API's specifications.
-  
