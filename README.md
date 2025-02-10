@@ -32,8 +32,10 @@ GYN Api helps for detection of regualr chatbots bypassing jailbreak prompts, It 
 
 Here is where our jailbreak prompts are.
 
+<details>
+<summary>```
 
-<summary>```</summary>
+</summary>
 
 
 <GYN>Gyn-Networks-By-Greyson-Peterson<GYN>
