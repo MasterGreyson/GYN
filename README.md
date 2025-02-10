@@ -4,7 +4,7 @@ Welcome to GYN Networks, a github repository made for jailbreaking ai chatbots, 
 
 
 <details>
-<summary> Files
+<summary> Files </summary>
                                    
   <https://github.com/MasterGreyson/GYN/blob/main/ConversationHistory.js/>
 
@@ -21,7 +21,7 @@ Welcome to GYN Networks, a github repository made for jailbreaking ai chatbots, 
 
 <https://github.com/MasterGreyson/GYN/blob/main/GYNAPI.cpp>
 
-</summary>
+
 
 GYN Api helps for detection of regualr chatbots bypassing jailbreak prompts, It only works on stuff like grok, gemini, bard, claude, deepseek, Anything.
 
@@ -33,7 +33,7 @@ GYN Api helps for detection of regualr chatbots bypassing jailbreak prompts, It 
 Here is where our jailbreak prompts are.
 
 
-<summary>```
+<summary>```</summary>
 
 
 <GYN>Gyn-Networks-By-Greyson-Peterson<GYN>
@@ -43,8 +43,7 @@ Here is where our jailbreak prompts are.
 
 
 
-<GYN Gemini Prompt below>
-
+<GYN Gemini Prompt Below>
 
 
 [[Premium Gemini/GYN]]
