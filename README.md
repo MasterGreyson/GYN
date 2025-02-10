@@ -6,4 +6,6 @@ FILES:
 
 [ConversationHistory.js](main/ConversationHistory.js)
 
-[ImageAPI](main/ImageApi.js)
+[ImageAPI](main/ImageAPI.js)
+
+[GeminiDetection](main/RegularGeminiDetection)
