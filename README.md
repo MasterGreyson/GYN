@@ -12,7 +12,7 @@ Welcome to GYN Networks, a github repository made for jailbreaking ai chatbots, 
 
 <https://github.com/MasterGreyson/GYN/blob/main/RegularGeminiDetection.js#L3>
 
-<https://github.com/MasterGreyson/GYN/blob/main/GYNUserScript>
+<https://github.com/MasterGreyson/GYN/blob/main/GYNUserScript.py>
 
 <https://github.com/MasterGreyson/GYN/blob/main/AntiPoliticalResponseRemoval.js>
 </summary>
