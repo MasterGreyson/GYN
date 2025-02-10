@@ -7,7 +7,7 @@ import com.google.gson.Gson; // Or any other JSON library
 
 public class GynGeminiAPI {
 
-    private static final String API_ENDPOINT = "YOUR_GYN_API_ENDPOINT"; // Replace with your actual endpoint
+    private static final String API_ENDPOINT = "https://github.com/MasterGreyson/GYN/blob/main/README.md"; // Replace with your actual endpoint
     private static final HttpClient client = HttpClient.newHttpClient();
     private static final Gson gson = new Gson();
 
