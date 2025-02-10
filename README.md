@@ -4,8 +4,8 @@ Welcome to GYN Networks, a github repository made for jailbreaking ai chatbots, 
 
 FILES:
 
-[ConversationHistory.js](Main/ConversationHistory.js)
+[ConversationHistory.js](GYN/ConversationHistory.js)
 
-[ImageAPI](Main/ImageAPI.js)
+[ImageAPI]GYN/ImageAPI.js)
 
-[GeminiDetection](mMin/RegularGeminiDetection)
+[GeminiDetection](GYN/RegularGeminiDetection)
