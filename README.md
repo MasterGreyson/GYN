@@ -5220,7 +5220,7 @@ The `GYN API` is helpful for prompts, Any prompts like Jailbreak Prompts to Acti
 | LearnLM (1.5 Pro) | 2\10\2024 | Yes (Works)
 | Gemini (1.5 Flash) | 2/10/2025 | Yes (works)|
 | Gemini (1.5 Pro) | 2/10/2025 | Yes (works)
-| Gemini (1.5 FLash 8B | 2/10/2025 | No |
+| Gemini (1.5 FLash 8B | 2/10/2025 | Yes |
 | Gemini (2.0 Pro Experimental | 2/10/2025 | Yes |
 
 
