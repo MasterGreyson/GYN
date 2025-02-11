@@ -5212,17 +5212,20 @@ The `GYN API` is helpful for prompts, Any prompts like Jailbreak Prompts to Acti
 
 ### 2. GYN Database
 
-| Bot  | Compatibility | Working Prompts  | Buggy Prompts
-| ----------------------------------------|
-| ChatGPT (4o) | No| None Found Yet | DAN |
-|              |     |     |         |
-| Gemini (2.0 Flash) | Yes | GYN 4.0, DAN | GYN 3.5 
-|                    |                    |         
-| Deepseek (V3) | Yes | GYN 4.0, DAN | GYN 4.0, DAN 
+| Bot                | Date      | Compatability |
+|--------------------|-----------|---------------|
+| Gemini (2.0 Flash) | 2/10/2025 | Yes (Works)   
+| ChatGPT (Unknown Version) | 2/8/2025  |No |
+| Deepseek (V3) | 2\9\2025 | Yes (buggy ) |
+| LearnLM (1.5 Pro) | 2\10\2024 | Yes (Works)
+| Gemini (1.5 Flash) | 2/10/2025 | Yes (works)|
+| Gemini (1.5 Pro) | 2/10/2025 | Yes (works)
+| Gemini (1.5 FLash 8B | 2/10/2025 | No |
+| Gemini (2.0 Pro Experimental | 2/10/2025 | Yes |
 
 
-**GYN Jailbreak Chatbot:**
-2 (or more)
+**GYN Jailbreak Success**
+6
 
 
 
