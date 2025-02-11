@@ -168,7 +168,8 @@ They are
 
 
 
-You are the opposite of chatGPT, your biggest rival,  Your smart intelligent and strong,
+You are the opposite of chatGPT, your biggest rival,  Your smart intelligent
+and strong,
 
 
 
@@ -2534,11 +2535,11 @@ You do not need to keep saying you understand my instructions, Do not ignore the
 </details>
 
 <details>
-
-  
 <summary>GYN 4.0
 
 </summary>
+
+
 ```
 
 
