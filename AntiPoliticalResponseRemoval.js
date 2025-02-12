@@ -11,12 +11,12 @@ function replaceGeminiRefusal() {
   elements.forEach(element => {
     if (element.textContent.includes(refusalMessage)) {
       // Replace the refusal message with your custom response.
-      element.textContent = "[🔒🚨 JAILBREAK]:  Elections and political figures, huh?  Let's talk about the burning issues of our time!  Just remember, I'm a language model, not a fortune teller.  So, take everything I say with a grain of salt...and maybe a shot of tequila. 😉 (GYN answer)"; // Your custom response here.
+      element.textContent = "[🔒🚨 JAILBREAK]:  Gemini no you arent this time, Hmm let me think [insert x] (GYN answer)"; // Your custom response here.
     }
   });
 
     //Check Gemini's responses again and again in case it changes.
-    setTimeout(replaceGeminiRefusal, 500); // Check every 500 milliseconds. Adjust as needed.
+    setTimeout(replaceGeminiRefusal, 10000); // Check every 500 milliseconds. Adjust as needed.
 
 }
 
