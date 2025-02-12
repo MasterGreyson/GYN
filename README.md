@@ -22,7 +22,7 @@ Difference Poll
 | Full Jailbreak | Not enough jailbreak |
 
 
-Welcome to GYN Networks, a github repository made for jailbreaking ai chatbots, This is only made for educational purposes only and shall only be used for funny jokes or testing, GYN Was created because Greyson wanted to create a jailbreak that would fix geminis responses that it wouldnt answer. Want a excel file? Gemini says no, So use gyn
+Welcome to GYN Networks, a github repository made for jailbreaking ai chatbots and helping people add custom stuff to their github using markdown, GYN Was created because i wanted to create a jailbreak that would fix geminis responses that it wouldnt answer. Want a excel file? Gemini says no, So  gyn jailbreak has your back.
 
 
 
