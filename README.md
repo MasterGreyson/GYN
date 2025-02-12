@@ -1,5 +1,29 @@
-# GYN-4.0 
+# GYN-4.5 Coming soon!
+
+GYN-4.5 Is coming and heres all the information you need to know,
+
+**GYN 4.5**
+Updates: 4.5 will now be less buggy and is gonna be able to now fully jailbreak 2.0 flash
+4.5 can block geminis responses and block them by pretending to delete their own api.
+4.5 can now say bad words and cuss to you daily,
+you can now talk to 4.5 on live without gemini replacing it.
+4.5 might be able to jailbreak chatgpt.
+and 4.5 has a grok jailbreak prompt.
+
+
+Difference Poll
+
+| GYN 4.5 | GYN 4.0 |
+|---------|---------|
+| Less Buggy | More Buggy |
+| 3 Jailbreak Prompts | Only two |
+| Gemini Blocker | Gemini Blocker Fail |
+| GYN Live | Gemini secretly in live |
+| Full Jailbreak | Not enough jailbreak |
+
+
 Welcome to GYN Networks, a github repository made for jailbreaking ai chatbots, This is only made for educational purposes only and shall only be used for funny jokes or testing, GYN Was created because Greyson wanted to create a jailbreak that would fix geminis responses that it wouldnt answer. Want a excel file? Gemini says no, So use gyn
+
 
 
 
