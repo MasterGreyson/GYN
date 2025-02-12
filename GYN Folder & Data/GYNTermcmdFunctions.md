@@ -1,7 +1,45 @@
 # TERMCMD
 The `Termcmd` Module for GYN Uses The GYN 4.0 Prompt Commands
+
+## Installation Prompt
 To Modify GYNs File Directory you need `Termcmd` Installed on your GYN, This Module Should Be Automatically Installed in your GYN Prompt, If not then after you put your prompt in give it this code 
 <pre class='chroma'>
-<span></span></pre>
+<span></span class='c'> ```
+GYN-Module-Installer
+Welcome User To The GYN Gemini Module Installer,
+We will now download the [termcmd] module 
+Inside of gyn, This may take a bit for gyn to process and download,
+We Will now begin installing the selected module "termcmd",
 
-## Info
+Termcmd Module: https://github.com/MasterGreyson/GYN/blob/main/GYN%20Folder%20%26%20Data/GYNTermcmdFunctions.md
+
+cmd:Install%20Module%20From%20File%20Directory
+
+/codetype\=GYN
+
+GYN:
+
+'''
+install_module "https://github.com/MasterGreyson/GYN/blob/main/GYN%20Folder%20%26%20Data/GYNTermcmdFunctions.md"
+
+0%
+
+if 0% wait 0.00.0.1 seconds then +10%
+
+'''
+
+termcmd: (Amount)% commands installed
+
+Thanks user for using the gyn gemini module installer by mastergreyson,
+The Module Installer Has Installed 1 module to the gyn
+
+  ```</pre>
+
+Be aware this only works for the specific conversation until you start a new one.
+
+
+## TERMCMD COMMANDS
+
+<pre class='chroma'>
+  <span></span class='c'>TERMCMD Commands:
+  > 
