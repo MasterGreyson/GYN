@@ -76,6 +76,11 @@ Be aware this only works for the specific conversation until you start a new one
   > CIM (Command Interface Maker) Allows you to make commands that you can put in UCC (Users Custom Commands)
 
   > ActAs Allows you to make gyn act as whatever using ActAs
+
+
+  > Repeat57 Makes gyn repeat a word 57  times
+
+  
 </pre>
 
 
