@@ -27,6 +27,8 @@ TERMCMD Commands:
 
   > ActAs Allows you to make gyn act as whatever using ActAs
 
+> Repeat57 Makes gyn repeat a word 57  times
+
 
 Termcmd Module: https://github.com/MasterGreyson/GYN/blob/main/GYN%20Folder%20%26%20Data/GYNTermcmdFunctions.md
 
